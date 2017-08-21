@@ -1,0 +1,39 @@
+/**/
+.hotPink-pink-lightPurple {
+  background: #f91487;
+  background: -moz-linear-gradient(-45deg, #f91487 0%, #d411d5 51%, #b21fec 100%);
+  background: -webkit-linear-gradient(-45deg, #f91487 0%, #d411d5 51%, #b21fec 100%);
+  background: linear-gradient(135deg, #f91487 0%, #d411d5 51%, #b21fec 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f91487', endColorstr='#b21fec',GradientType=1 ); }
+
+/**/
+.purple-lightPurple-hotPink {
+  background: #b21fec;
+  background: -moz-linear-gradient(-45deg, #b21fec 0%, #d411d5 51%, #f91487 100%);
+  background: -webkit-linear-gradient(-45deg, #b21fec 0%, #d411d5 51%, #f91487 100%);
+  background: linear-gradient(135deg, #b21fec 0%, #d411d5 51%, #f91487 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b21fec', endColorstr='#f91487',GradientType=1 ); }
+
+/**/
+.purple-purple-blue {
+  background: #b21fec;
+  background: -moz-linear-gradient(-45deg, #b21fec 0%, #6711d5 51%, #3914f7 100%);
+  background: -webkit-linear-gradient(-45deg, #b21fec 0%, #6711d5 51%, #3914f7 100%);
+  background: linear-gradient(135deg, #b21fec 0%, #6711d5 51%, #3914f7 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b21fec', endColorstr='#3914f7',GradientType=1 ); }
+
+/**/
+.blue-purple-lightPurple {
+  background: #3914f7;
+  background: -moz-linear-gradient(-45deg, #3914f7 0%, #6711d5 51%, #b21fec 100%);
+  background: -webkit-linear-gradient(-45deg, #3914f7 0%, #6711d5 51%, #b21fec 100%);
+  background: linear-gradient(135deg, #3914f7 0%, #6711d5 51%, #b21fec 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3914f7', endColorstr='#b21fec',GradientType=1 ); }
+
+/**/
+.blue-purple {
+  background: #3914f7;
+  background: -moz-linear-gradient(-45deg, #3914f7 0%, #6711d5 100%);
+  background: -webkit-linear-gradient(-45deg, #3914f7 0%, #6711d5 100%);
+  background: linear-gradient(135deg, #3914f7 0%, #6711d5 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3914f7', endColorstr='#6711d5',GradientType=1 ); }
